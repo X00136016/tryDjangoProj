@@ -1,0 +1,2 @@
+# tryDjangoProj
+# tryDjangoProj
